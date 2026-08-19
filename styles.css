@@ -223,6 +223,27 @@ p {
   font-size: 0.85rem;
 }
 
+.cert-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1.5rem;
+}
+
+.cert-list span {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid rgba(86, 156, 214, 0.35);
+  background: rgba(86, 156, 214, 0.08);
+  color: var(--primary);
+  font-size: 0.76rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
 .hero-card {
   background: linear-gradient(180deg, rgba(45, 45, 48, 0.98), rgba(37, 37, 38, 0.98));
   border: 1px solid var(--border);
