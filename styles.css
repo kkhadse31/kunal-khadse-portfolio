@@ -240,7 +240,7 @@ p {
   border-radius: 22px;
   background:
     linear-gradient(135deg, rgba(118, 217, 255, 0.32), rgba(126, 240, 196, 0.18)),
-    url('https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80') center/cover no-repeat;
+    url('kunal_photo.png') center/cover no-repeat;
 }
 
 .card-info {
